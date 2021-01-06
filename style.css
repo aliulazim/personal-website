@@ -1,0 +1,143 @@
+body {
+	margin: 0;
+	font-family: 'Bebas Neue', cursive;
+	font-family: 'Roboto', sans-serif;
+}
+h1 {
+	color: #363958;
+	font-size: 80px;
+	font-family: 'Bebas Neue', cursive;
+	font-weight: 700;
+	line-height: 90px;
+	margin-bottom: 30px;
+}
+h2 {
+	color: #363958;
+	font-size: 48px;
+	font-family: 'Bebas Neue', cursive;
+	font-weight: 700;
+	line-height: 48px;
+	margin-bottom: 30px;
+}
+h3 {
+	color: #363958;
+	font-size: 24px;
+	font-family: 'Bebas Neue', cursive;
+	font-weight: 700;
+	line-height: 28px;
+	margin-bottom: 20px;
+}
+h4 {
+	color: #696871;
+	font-size: 24px;
+	font-family: 'Bebas Neue', cursive;
+	font-weight: 400;
+	line-height: 20px;
+	margin-bottom: 20px;
+}
+p {
+	color: #3E3E3E;
+	font-size: 16px;
+	line-height: 24px;
+	margin-bottom: 40px;
+}
+section {
+	height: 500px;
+	padding-top: 50px;
+	
+}
+.half-width {
+	width: 40%;
+	float: left;
+	margin-left: 5%;
+	padding-left: 5%;
+}
+.text-highlight {
+	color: #F46060;
+}
+.link-button {
+	text-decoration: none;
+	background-image: linear-gradient(45deg, lightsalmon, tomato);
+	padding: 15px 45px;
+	color: white;
+	font-weight: 700;
+}
+img {
+	width: 100%;
+}
+.about-content {
+	padding-right: 80px;
+}
+.skill-heading {
+	text-align: center;
+}
+progress {
+	width: 90%;
+}
+.progress-percentage {
+	float: right;
+	margin-right: 50px;
+}
+.project-heading {
+	text-align: center;
+	margin-bottom: 60px;
+}
+.single-project {
+	width: 25%;
+	float: left;
+	margin-left: 4%;
+	padding-left: 3%;
+	box-shadow: grey 10px 10px 10px;
+	border-radius: 10px;
+	height: 100%;
+}
+.inquiry-area {
+	background-image: url("shapes/Group_33094_1.png");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: 800px;
+	margin-top: 310px;
+}
+.text-inquiry {
+	width: 40%;
+	float: left;
+	margin-left: 19%;
+	padding-left: 5%;
+}
+.text-inquiry h2 {
+	color: white;
+}
+.chat-inquiry {
+	width: 32%;
+	float: right;
+	margin-top: 40px;
+}
+.chat-button {
+	text-decoration: none;
+	background-image: linear-gradient(45deg, lightsalmon, tomato);
+	padding: 15px 20px;
+	color: white;
+	font-weight: 700;
+}
+.contact-area {
+	margin-top: -310px;
+}
+.contact-info {
+	text-align: center;
+}
+address {
+	color: #363958;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42px;
+}
+.social-icons {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.social-icons a {
+	width: 40px;
+	height: 40px;
+	margin: 20px 10px;
+}
